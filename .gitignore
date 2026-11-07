@@ -1,0 +1,4 @@
+*.env
+wallet/
+*.zip
+.DS_Store
